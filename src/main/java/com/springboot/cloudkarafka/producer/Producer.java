@@ -1,6 +1,6 @@
 package com.springboot.cloudkarafka.producer;
 
-import com.karafka.springboot.model.Message;
+import com.springboot.cloudkarafka.model.Message;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.kafka.core.KafkaTemplate;
